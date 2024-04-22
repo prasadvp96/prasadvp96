@@ -22,8 +22,8 @@ I am a passionate QA Automation Tester with expertise in various tools and techn
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 ## Skills
-- **Programming Languages:** Java
-- **Automation Tools:** Selenium WebDriver, TestNG, Cucumber
+- **Programming Languages:** Java, Python
+- **Automation Tools:** Selenium WebDriver
 - **API Testing:** Postman
 - **Database:** SQL
 - **Issue Tracking:** JIRA, Buganizer
@@ -36,11 +36,11 @@ Identify defects & bugs and work with developers to resolve them. Conduct functi
 
 ## Projects Handled
 <h3 align="left">Project 1 :</h3>
-<h3 align="left">Project Name - Automatic Parking System BE </h3>
+<h3 align="left">Project Name - Automatic detection of vacant parking slots using vehicle number </h3>
 <h3 align="left">BE Project</h3>
 <h3 align="left">Description:</h3>
+Abstract – Vehicle parking is an important factor in today’s scenario. It is mainly designed for the user to park vehicles conveniently and to retrieve vehicle information in a commercial building which will solve bottleneck problems. 
 
- 
  
  <h3 align="left">Roles & Responsibilities: -</h3>
  
@@ -78,12 +78,7 @@ The Navigation SDK for Android/iOS allows rideshare providers to improve. And di
 - Validate the mobile application's compatibility with various devices, screen sizes, resolutions, and operating system versions.
 
 ## Certifications
-ISTQB Certified Tester Foundation Level : [Link](link)
-
- <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/akashthoratqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akashthoratqa" height="30" width="40" /></a>
-</p>
+ISTQB Certified Tester Foundation Level
 
 📫 How to reach me on Gmail **prasadvp96@gmail.com**
 
